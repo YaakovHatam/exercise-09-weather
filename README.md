@@ -9,4 +9,4 @@ We will use the https://home.openweathermap.org/ API service
 - We will use Cachng mechnism to store the data returned from API.
 
 ## The page
-The page will contain an input search box for entering a city name. After pressing the enter button or the add button a new tab is created with the weather information of the city typed in the search box.
+The page will contain an input search box for entering a city name. After pressing the enter button or the add button a new card is created with the weather information of the city typed in the search box.
